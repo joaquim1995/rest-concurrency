@@ -24,8 +24,8 @@ hs_err_pid*
 
 
 # Compiled class file
-target/
-.idea/
+target/*
+.idea/*
 
 # Default ignored files
 /shelf/
