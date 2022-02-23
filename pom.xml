@@ -65,6 +65,13 @@
             <version>2.7.1.Final</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.github.dpaukov/combinatoricslib3 -->
+        <dependency>
+            <groupId>com.github.dpaukov</groupId>
+            <artifactId>combinatoricslib3</artifactId>
+            <version>3.3.3</version>
+        </dependency>
+
 
     </dependencies>
 
